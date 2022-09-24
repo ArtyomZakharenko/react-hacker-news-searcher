@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# News Searcher
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project for searching news from different sources.
+Built on [HN Hacker News](https://hn.algolia.com/api) API.
 
 ## Available Scripts
 
